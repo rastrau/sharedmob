@@ -1,0 +1,124 @@
+{
+  "last_updated" : 1634516396,
+  "ttl" : 60,
+  "version" : "2.0",
+  "data" : {
+    "plans" : [ {
+      "plan_id" : "donkey_le_locle:214",
+      "url" : "https://www.donkey.bike/pricing/",
+      "name" : "Bike pricing",
+      "currency" : "CHF",
+      "price" : 0.0,
+      "description" : "No strings attached – with our pay as you ride option you can take short or long trips in the city. Forget about calculations, just get on a Donkey Bike and ride. The longer you ride, the cheaper the minutes get.",
+      "provider_id" : "donkey_le_locle",
+      "is_taxable" : false
+    }, {
+      "plan_id" : "donkey_le_locle:266",
+      "url" : "https://www.donkey.bike/pricing/",
+      "name" : "Ebike pricing",
+      "currency" : "CHF",
+      "price" : 0.0,
+      "description" : "No strings attached – with our pay as you ride option you can take short or long trips in the city. Forget about calculations, just get on a Donkey Bike and ride. The longer you ride, the cheaper the minutes get.",
+      "provider_id" : "donkey_le_locle",
+      "is_taxable" : false
+    }, {
+      "plan_id" : "donkey_sion:247",
+      "url" : "https://www.donkey.bike/pricing/",
+      "name" : "Bike pricing",
+      "currency" : "CHF",
+      "price" : 0.0,
+      "description" : "No strings attached – with our pay as you ride option you can take short or long trips in the city. Forget about calculations, just get on a Donkey Bike and ride. The longer you ride, the cheaper the minutes get.",
+      "provider_id" : "donkey_sion",
+      "is_taxable" : false
+    }, {
+      "plan_id" : "donkey_sion:248",
+      "url" : "https://www.donkey.bike/pricing/",
+      "name" : "Ebike pricing",
+      "currency" : "CHF",
+      "price" : 0.0,
+      "description" : "No strings attached – with our pay as you ride option you can take short or long trips in the city. Forget about calculations, just get on a Donkey Bike and ride. The longer you ride, the cheaper the minutes get.",
+      "provider_id" : "donkey_sion",
+      "is_taxable" : false
+    }, {
+      "plan_id" : "donkey_sion:249",
+      "url" : "https://www.donkey.bike/pricing/",
+      "name" : "Trailer pricing",
+      "currency" : "CHF",
+      "price" : 0.0,
+      "description" : "No strings attached – with our pay as you ride option you can take short or long trips in the city. Forget about calculations, just get on a Donkey Bike and ride. The longer you ride, the cheaper the minutes get.",
+      "provider_id" : "donkey_sion",
+      "is_taxable" : false
+    }, {
+      "plan_id" : "donkey_neuchatel:28",
+      "url" : "https://www.donkey.bike/pricing/",
+      "name" : "Bike pricing",
+      "currency" : "CHF",
+      "price" : 0.0,
+      "description" : "No strings attached – with our pay as you ride option you can take short or long trips in the city. Forget about calculations, just get on a Donkey Bike and ride. The longer you ride, the cheaper the minutes get.",
+      "provider_id" : "donkey_neuchatel",
+      "is_taxable" : false
+    }, {
+      "plan_id" : "donkey_ge:328",
+      "url" : "https://www.donkey.bike/pricing/",
+      "name" : "Bike pricing",
+      "currency" : "CHF",
+      "price" : 0.0,
+      "description" : "No strings attached – with our pay as you ride option you can take short or long trips in the city. Forget about calculations, just get on a Donkey Bike and ride. The longer you ride, the cheaper the minutes get.",
+      "provider_id" : "donkey_ge",
+      "is_taxable" : false
+    }, {
+      "plan_id" : "donkey_ge:329",
+      "url" : "https://www.donkey.bike/pricing/",
+      "name" : "Ebike pricing",
+      "currency" : "CHF",
+      "price" : 0.0,
+      "description" : "No strings attached – with our pay as you ride option you can take short or long trips in the city. Forget about calculations, just get on a Donkey Bike and ride. The longer you ride, the cheaper the minutes get.",
+      "provider_id" : "donkey_ge",
+      "is_taxable" : false
+    }, {
+      "plan_id" : "donkey_thun:274",
+      "url" : "https://www.donkey.bike/pricing/",
+      "name" : "Bike pricing",
+      "currency" : "CHF",
+      "price" : 0.0,
+      "description" : "No strings attached – with our pay as you ride option you can take short or long trips in the city. Forget about calculations, just get on a Donkey Bike and ride. The longer you ride, the cheaper the minutes get.",
+      "provider_id" : "donkey_thun",
+      "is_taxable" : false
+    }, {
+      "plan_id" : "donkey_thun:400",
+      "url" : "https://www.donkey.bike/pricing/",
+      "name" : "Ebike pricing",
+      "currency" : "CHF",
+      "price" : 0.0,
+      "description" : "No strings attached – with our pay as you ride option you can take short or long trips in the city. Forget about calculations, just get on a Donkey Bike and ride. The longer you ride, the cheaper the minutes get.",
+      "provider_id" : "donkey_thun",
+      "is_taxable" : false
+    }, {
+      "plan_id" : "donkey_yverdon-les-bains:250",
+      "url" : "https://www.donkey.bike/pricing/",
+      "name" : "Bike pricing",
+      "currency" : "CHF",
+      "price" : 0.0,
+      "description" : "No strings attached – with our pay as you ride option you can take short or long trips in the city. Forget about calculations, just get on a Donkey Bike and ride. The longer you ride, the cheaper the minutes get.",
+      "provider_id" : "donkey_yverdon-les-bains",
+      "is_taxable" : false
+    }, {
+      "plan_id" : "donkey_li:213",
+      "url" : "https://www.donkey.bike/pricing/",
+      "name" : "Bike pricing",
+      "currency" : "CHF",
+      "price" : 0.0,
+      "description" : "No strings attached – with our pay as you ride option you can take short or long trips in the city. Forget about calculations, just get on a Donkey Bike and ride. The longer you ride, the cheaper the minutes get.",
+      "provider_id" : "donkey_li",
+      "is_taxable" : false
+    }, {
+      "plan_id" : "nextbike_ch:Rate0019",
+      "name" : "CHF2/Stunde, ab 10.Stunde CHF20/24h",
+      "currency" : "CHF",
+      "price" : 0.0,
+      "description" : "CHF2/Stunde, ab 10.Stunde CHF20/24h",
+      "provider_id" : "nextbike_ch",
+      "is_taxable" : false
+    } ]
+  }
+}
